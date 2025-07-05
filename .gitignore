@@ -1,0 +1,9 @@
+logs/
+crash-reports/
+mods/*.jar
+.gradle/
+.idea/
+*.iml
+*.tmp
+*.bat
+*.DS_Store
